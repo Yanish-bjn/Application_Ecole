@@ -44,5 +44,4 @@ public class Index {
 		shell.setText("SWT Application");
 
 	}
-
 }
